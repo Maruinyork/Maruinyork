@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Maruinyork, you can call me Mar
+- 🔈 I speak fluent english
 - 👀 I’m interested in sports, friendship, travelling, history, economy, finances, programming, 
 - 🌱 I’m currently learning Javascript. 
 - 💞️ I’m looking to collaborate on projects 
