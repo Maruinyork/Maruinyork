@@ -18,7 +18,9 @@ SKILLS:
 <a href='https://postimg.cc/bZ7zfNGw' target='_blank'><img src='https://i.postimg.cc/bZ7zfNGw/npm.png' border='0' alt='npm'/></a>
 <a href='https://postimg.cc/Mf1dr5jD' target='_blank'><img src='https://i.postimg.cc/Mf1dr5jD/mysql.png' border='0' alt='mysql'/></a>
 <a href='https://postimg.cc/18XYyGx9' target='_blank'><img src='https://i.postimg.cc/18XYyGx9/mongo.png' border='0' alt='mongo'/></a>
+<a href='https://postimg.cc/fJ18D7T3' target='_blank'><img src='https://i.postimg.cc/fJ18D7T3/firebase.png' border='0' alt='firebase'/></a>
 <a href='https://postimg.cc/gxtqsQTp' target='_blank'><img src='https://i.postimg.cc/gxtqsQTp/node.png' border='0' alt='node'/></a>
 <a href='https://postimg.cc/ftKZdc8V' target='_blank'><img src='https://i.postimg.cc/ftKZdc8V/express.png' border='0' alt='express'/></a>
 <a href='https://postimg.cc/ZC0Wc2PJ' target='_blank'><img src='https://i.postimg.cc/ZC0Wc2PJ/git.png' border='0' alt='git'/></a>
 <a href='https://postimg.cc/CZwYvfyb' target='_blank'><img src='https://i.postimg.cc/CZwYvfyb/github.png' border='0' alt='github'/></a>
+
