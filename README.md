@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning NODE.js. 
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me: https://www.linkedin.com/in/maria-jaureguiber/ 
+                      https://maruinyork-portfolio.netlify.app/
 
 SKILLS:
 
