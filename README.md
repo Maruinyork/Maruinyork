@@ -3,10 +3,10 @@
 - 👩‍🎓 I have a degree in economics
 - 🔈 I speak fluent english
 - 👀 I’m interested in sports, friendship, travelling, history, economy, finances, programming, 
-- 🌱 I’m currently learning NODE.js. 
+- 🌱 I’m currently learning NODE.js y JAVA. 
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me: https://www.linkedin.com/in/maria-jaureguiber/ 
-                      https://maruinyork-portfolio.netlify.app/
+- PORTFOLIO:  https://maruinyork-portfolio.netlify.app/
 
 SKILLS:
 
