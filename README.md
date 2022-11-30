@@ -10,6 +10,27 @@
 
 SKILLS:
 
+Node.JS	
+JavaScript	
+React	
+MongoDB	
+MySQL	
+Firebase	Firebase
+HTML5	
+CSS3	
+Java	
+C++	
+JSON	
+Gi	Git
+GitHub	GitHub
+Glitch	Glitch
+Netlify	Netlify
+Postman	Postman
+Express	Express
+MaterialUI	MaterialUI
+Bootstrap	Bootstrap
+VSC	VSC
+
 <a href='https://postimg.cc/rD6PjX64' target='_blank'><img src='https://i.postimg.cc/rD6PjX64/html5.png' border='0' alt='html5'/></a>
 <a href='https://postimg.cc/2LZxLySK' target='_blank'><img src='https://i.postimg.cc/2LZxLySK/css3.png' border='0' alt='css3'/></a>
 <a href='https://postimg.cc/Z9Q3Pm2t' target='_blank'><img src='https://i.postimg.cc/Z9Q3Pm2t/js.png' border='0' alt='js'/></a>
